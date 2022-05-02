@@ -1,5 +1,5 @@
 {
-	"name": "alpinelinux.org/alpine",
+	"name": "min.warpforge.io/alpinelinux/rootfs",
 	"releases": {
 		"v3.15.4": "zM5K3Rrj586izeiyga3RSstqTFPFxi2jodm7QPs4MyX2DEERABBfDJo9kQpcwQQWpAz4goi"
 	},
