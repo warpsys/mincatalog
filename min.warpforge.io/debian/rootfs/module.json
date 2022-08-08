@@ -1,9 +1,0 @@
-{
-	"catalogmirror.v1": {
-		"name": "min.warpforge.io/debian/rootfs",
-		"releases": {
-			"bullseye-1646092800": "zM5K3ZYXtnfk7Gj6gQg91ox4TTuQyQj98ajYQiHuUAzzU3WP8xdTc8fJCghUkkV2qEZwpBC"
-		},
-		"metadata": {}
-	}
-}
